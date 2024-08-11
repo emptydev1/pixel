@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/banner.png" alt="PixeL Logo" width="200">
+  <img src="/assets/banner.png" alt="PixeL Logo" width="100%">
 </p>
 
 <h1>Bem-vindo ao PixeL 🚀</h1>
