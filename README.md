@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/banner.png" alt="PixeL Logo" width="100%">
+  <img src="/assets/images/banner.png" alt="PixeL Logo" width="100%">
 </p>
 
 <h1>Bem-vindo ao PixeL 🚀</h1>
@@ -19,7 +19,7 @@
 <p align="left">Adicionar o PixeL ao seu servidor do Discord é rápido e fácil! Basta clicar no botão abaixo para convidar PixeL para o seu servidor e, posteriormente, utilizar suas funcionalidades: </p>
 
 <p align="center">
-  <a href="https://discord.com/api/oauth2/authorize?client_id=1103785889668284477&scope=applications.commands+bot"><img src="assets/addbot_btn.png" alt="Add PixeL in Your Server" width="170"></a>
+  <a href="https://discord.com/api/oauth2/authorize?client_id=1103785889668284477&scope=applications.commands+bot"><img src="/assets/images/addbot_btn.png" alt="Add PixeL in Your Server" width="170"></a>
 </p>
 
 <h2>Sobre o PixeL ℹ️</h2>
@@ -31,8 +31,8 @@
 <p align="left">Se você gosta de utilizar o PixeL e deseja ajudar a manter nosso bot funcionando, considere fazer uma doação! Sua contribuição nos ajuda a cobrir os custos de hospedagem e a desenvolver novos recursos para tornar sua experiência ainda melhor. Além disso, você pode votar no PixeL no top.gg para nos ajudar a crescer e alcançar mais usuários. Obrigado pelo seu apoio contínuo!</p>
 
 <p align="center">
-  <a href="https://link.mercadopago.com.br/pixelbot"><img src="/assets/donate_btn.png" alt="Donate for PixeL" width="150"></a>
-  <a href="https://top.gg/bot/1103785889668284477/vote"><img src="/assets/vote_btn.png" alt="Vote on Top.gg" width="150"></a>
+  <a href="https://link.mercadopago.com.br/pixelbot"><img src="/assets/images/donate_btn.png" alt="Donate for PixeL" width="150"></a>
+  <a href="https://top.gg/bot/1103785889668284477/vote"><img src="/assets/images/vote_btn.png" alt="Vote on Top.gg" width="150"></a>
 </p>
 
 <h2>Termos de Uso e Serviço 📜</h2>
